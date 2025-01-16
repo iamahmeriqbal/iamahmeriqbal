@@ -16,8 +16,9 @@
 <h3 align="left">My Flutter mini apps on App Store:</h3>
 
 - [Rain Scope](https://apps.apple.com/us/app/rainscope/id6670182947)
-- [Clima Forecast](https://apps.apple.com/us/app/clima-forecast/id6740206835)
 - [Cash Manager](https://apps.apple.com/pk/app/cashmanager/id6738950626)
+- [Clima Forecast](https://apps.apple.com/us/app/clima-forecast/id6740206835)
+- [Daily Quick Task](https://apps.apple.com/app/daily-quick-task/id6661026314)
 - [Better Me Routine](https://apps.apple.com/pk/app/better-me-routine/id6738891854)
 - [BMI Calculator Mate](https://apps.apple.com/us/app/bmi-calculator-mate/id6740207471)
 
