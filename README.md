@@ -15,6 +15,7 @@
 
 <h3 align="left">My Flutter mini apps on App Store:</h3>
 
+- [Body Trend](https://apps.apple.com/us/app/body-trend/id6740780394)
 - [Rain Scope](https://apps.apple.com/us/app/rainscope/id6670182947)
 - [Cash Manager](https://apps.apple.com/pk/app/cashmanager/id6738950626)
 - [Clima Forecast](https://apps.apple.com/us/app/clima-forecast/id6740206835)
