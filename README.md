@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning more about **Kotlin | Java | Flutter**
 
-- 👯 Please support me on <a href="https://www.youtube.com/channel/UC5JcKCIBjMDbc_7b1g-HVGg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC5JcKCIBjMDbc_7b1g-HVGg" height="30" width="40" /></a> [GuidanceHub](https://www.youtube.com/channel/UC5JcKCIBjMDbc_7b1g-HVGg)
+- 👯 Please support me on <a href="https://www.youtube.com/channel/UC5JcKCIBjMDbc_7b1g-HVGg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC5JcKCIBjMDbc_7b1g-HVGg" height="30" width="40" /></a> [Islamic Content TV 360
+](https://www.youtube.com/channel/UC5JcKCIBjMDbc_7b1g-HVGg)
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/iamahmeriqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/iamahmeriqbal" height="30" width="40" /></a> [iamahmeriqbal](https://github.com/iamahmeriqbal)
 
